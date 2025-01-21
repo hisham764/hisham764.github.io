@@ -58,6 +58,7 @@ html, body {
   padding: 8px;
   font-size: 24px;
   font-weight: bold;
+  color: white;
 }
 
 #poseCanvas {
